@@ -13,4 +13,4 @@ Exemplo de OnePage:
 
 E-mail final com o ranking das lojas:
 
-![email final](https://user-images.githubusercontent.com/67477751/211703703-e70b94c1-c1e8-4465-bf49-b62ea07dfc87.png)
+![ranking final](https://user-images.githubusercontent.com/67477751/211704692-026f7e14-9c05-4c6b-bc1e-5dee4f619f43.png)
