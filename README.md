@@ -1,5 +1,10 @@
 # Process-Automation-Desk
 
+##Base de Dados:
+https://drive.google.com/drive/folders/1KdbUBmlf3bjYMUM1WxfQU8ryhBt-GoBv?usp=sharing
+
+Troque os E-mails do arquivo "Emails" para seu próprio E-mail de teste
+
 ## Descrição (descrição completa no arquivo "Descrição do Projeto"):
 Imagine que você trabalha em uma grande rede de lojas de roupa com 25 lojas espalhadas por todo o Brasil.
 
